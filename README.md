@@ -18,3 +18,6 @@
 - Create `index.js` with content `console.log('hi')` after add "start": "node index" to scripts in package.json
 - In terminal input: `npm start` after view terminal show `hi` -> OK
 
+### 2. install packages:
+- Run: `npm i ejs nodemon` -> chill for waiting
+- After packages installed -> view package.json -> name and version package added in `dependencies`

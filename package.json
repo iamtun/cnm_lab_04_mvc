@@ -8,5 +8,9 @@
     "start": "node index"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "nodemon": "^3.1.0"
+  }
 }
