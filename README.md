@@ -21,3 +21,6 @@
 ### 2. install packages:
 - Run: `npm i ejs nodemon` -> chill for waiting
 - After packages installed -> view package.json -> name and version package added in `dependencies`
+
+### 3. add nodemon to auto restart when change code
+- change `"start": "nodemon index"`
