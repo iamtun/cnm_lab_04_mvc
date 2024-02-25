@@ -1,7 +1,7 @@
 ﻿## ---- NodeJS MVC with EJS --- 
 
 ### 1. init project
-- Run: `npm init .` after click enter then package.json created auto with content
+- Run: `npm init` after click enter then package.json created auto with content
     ```json
     {
     "name": "lab_04_mvc",
